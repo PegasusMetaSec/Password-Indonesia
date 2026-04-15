@@ -1,3 +1,10 @@
+
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-14 at 23 23 35" src="https://github.com/user-attachments/assets/363f5651-9408-45c5-a60e-789a64c71705" />
+
+
+
+
+
 # 📁 Daftar Kata Sandi Umum Indonesia (wordlist)
 
 Daftar kata sandi statis ini disusun untuk keperluan **pengujian keamanan (penetration testing)**, **audit keamanan internal**, dan **edukasi kesadaran keamanan siber** di lingkungan berbahasa Indonesia.
